@@ -2,7 +2,7 @@
 
 Program predicts stock movement with interchangeable company tickers / load data currently set from 2016-present pulling from yahoo finance
 
-Download dependencies from tensorflow-apple-metal-conda.yml as "tensorflow-apple-metal-conda.yml"
+Download dependencies from [tensorflow-apple-metal-conda.ym](https://github.com/gygooden/StockMarketMachineLearning/blob/main/tensorflow-apple-metal-conda.yml)l as "tensorflow-apple-metal-conda.yml"
 
 Run in terminal :
 conda env create -f tensorflow-apple-metal-conda.yml -n tensorflow
